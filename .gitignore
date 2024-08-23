@@ -1,0 +1,12 @@
+obj/HelloWorld.csproj.nuget.dgspec.json
+obj/HelloWorld.csproj.nuget.g.props
+obj/HelloWorld.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+obj/Debug/net8.0/HelloWorld.assets.cache
+obj/Debug/net8.0/HelloWorld.csproj.AssemblyReference.cache
+obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net8.0/HelloWorld.GlobalUsings.g.cs
