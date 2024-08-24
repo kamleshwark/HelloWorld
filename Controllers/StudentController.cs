@@ -9,7 +9,7 @@ using Microsoft.Extensions.Logging;
 namespace HelloWorldAPI.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class StudentController : Controller
     {
         private readonly ILogger<StudentController> _logger;
